@@ -3,19 +3,19 @@ Sign your name:________________
 
 
 
-Define Forking: 
+Define Forking: making a copy
 
-Define Cloning: 
+Define Cloning: putting it into your python
 
-Define Branching:
+Define Branching: making a separate
 
-Define Committing: 
+Define Committing: changing what you have into the main code
 
-Define Merging: 
+Define Merging: combining your code with other peoples
 
-Define Pushing:
+Define Pushing: sending
 
-Define Pull Request:
+Define Pull Request: sending your code to be merged.
 
 
 '''
